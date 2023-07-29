@@ -1,0 +1,40 @@
+.container
+{
+    display: flex;
+    border: 2px solid black;
+    height: 340px;
+    background-color: aqua;
+}
+
+.btn
+{
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid white;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+.image
+{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+    border: 2px solid black;
+}
+
+.image1
+{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+    border: 2px solid black;
+}
+
+.image2
+{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+    border: 2px solid black;
+}
